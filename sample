@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Insights from [Your Name], tech entrepreneur and innovator.">
+    <meta name="keywords" content="Tech Entrepreneur, Startup, Innovation, Software Development">
+    <meta name="author" content="[Your Name]">
+
+    <!-- Open Graph for social sharing -->
+    <meta property="og:title" content="Tech Insights by [Your Name]">
+    <meta property="og:description" content="Sharing tips, strategies, and experiences as a growing tech entrepreneur.">
+    <meta property="og:image" content="your-image.jpg">
+    <meta property="og:url" content="https://yourblog.com">
+    <meta property="og:type" content="website">
+
+    <title>Tech Insights by [Your Name]</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; background: #f8f8f8; }
+        header { background: #222; color: white; padding: 1rem; text-align: center; }
+        nav a { color: white; margin: 0 10px; text-decoration: none; }
+        main { max-width: 800px; margin: auto; padding: 1rem; background: white; }
+        article { border-bottom: 1px solid #ccc; margin-bottom: 1rem; padding-bottom: 1rem; }
+        footer { text-align: center; padding: 1rem; background: #222; color: white; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tech Insights by [Your Name]</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h2>How I Built My First App — Lessons Learned</h2>
+            <p><small>Posted on August 8, 2025</small></p>
+            <p>Starting with nothing but an idea, I built my first app in three months. Here's what went right — and wrong...</p>
+            <a href="#">Read more →</a>
+        </article>
+        <article>
+            <h2>Top 5 Tools Every Tech Entrepreneur Should Use</h2>
+            <p><small>Posted on July 30, 2025</small></p>
+            <p>These tools have saved me time, money, and stress — and they can do the same for you.</p>
+            <a href="#">Read more →</a>
+        </article>
+    </main>
+    <footer>
+        <p>© 2025 [Your Name] — All Rights Reserved</p>
+    </footer>
+</body>
+</html>
